@@ -1,0 +1,15 @@
+# 当前文件中的脚本作用为创建数据库并像数据库中导入数据
+
+# 首先需要登录mysql数据库客户端
+
+# 然后在其命令行中执行
+    mysql> source /xxxxx/xxxxx/xxxx/Recommendation_system_DB_init.sql
+
+# 然后执行python脚本将本地的数据导入到数据库
+# 注意使用前需要先行配置好必要的环境,然后修改前目录下的util.py中的数据库信息
+# py脚本的执行顺序有先后之分
+# 执行的顺序为:
+    1.ToAreaInfo.py
+    2.ToProductKeyWordSearchInfo.py
+    3.ToProductBaseInfo.py
+    4.ToShopInfo.py

@@ -1,0 +1,36 @@
+{
+  "CommentsCount": [
+    {
+      "SkuId": 1868860,
+      "ProductId": 1868860,
+      "ShowCount": 8900,
+      "ShowCountStr": "8900+",
+      "CommentCountStr": "37万+",
+      "CommentCount": 370730,
+      "AverageScore": 5,
+      "DefaultGoodCountStr": "28万+",
+      "DefaultGoodCount": 282281,
+      "GoodCountStr": "23万+",
+      "GoodCount": 232147,
+      "AfterCount": 687,
+      "OneYear": 0,
+      "AfterCountStr": "600+",
+      "VideoCount": 254,
+      "VideoCountStr": "200+",
+      "GoodRate": 0.99,
+      "GoodRateShow": 99,
+      "GoodRateStyle": 148,
+      "GeneralCountStr": "800+",
+      "GeneralCount": 860,
+      "GeneralRate": 0.0080,
+      "GeneralRateShow": 1,
+      "GeneralRateStyle": 2,
+      "PoorCountStr": "500+",
+      "PoorCount": 569,
+      "SensitiveBook": 0,
+      "PoorRate": 0.0020,
+      "PoorRateShow": 0,
+      "PoorRateStyle": 0
+    }
+  ]
+}
